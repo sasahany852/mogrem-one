@@ -81,12 +81,6 @@
     "ytdl-core": "^2.0.0",
     "m3u8stream": "^0.6.5"
   },
-  
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
-  },
-
   "repository": {
     "url": "https://glitch.com/edit/#!/hello-express"
   },
@@ -96,5 +90,4 @@
     "glitch",
     "express"
   ]
-}
 }
